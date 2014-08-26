@@ -1,4 +1,4 @@
-MobGUI6
+MobGUI
 ======
 
 Right click a mob in Minecraft to open up an inventory!
