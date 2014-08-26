@@ -1,0 +1,8 @@
+name: MobGUI
+main: me.cosmicarts.MobGUI.Main
+version: 1.0
+description: null
+
+commands:
+  mobgui:
+    description: Spawn Zombie for MobGUI.
