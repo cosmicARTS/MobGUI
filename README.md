@@ -8,12 +8,12 @@
 </tr>
 <tr>
 <td>mg </td>
-<td>sheep </td>
-<td>Spawns sheep labled 'Server Selector' </td>
+<td>spawn </td>
+<td>Spawns MobGUI Sheep. </td>
 </tr>
 <tr>
 <td>mg </td>
 <td>about </td>
-<td>Shows info on plugin. </td>
+<td>Shows MobGUI Information. </td>
 </tr>
 </tbody></table>
