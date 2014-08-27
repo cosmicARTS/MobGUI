@@ -1,8 +1,8 @@
 name: MobGUI
 main: me.cosmicarts.MobGUI.Main
 version: 1.0
-description: null
+description: Spawns MobGUI Sheep or displays MobGUI Information.
 
 commands:
-  mobgui:
-    description: Spawn Zombie for MobGUI.
+  mg:
+    description: Spawns MobGUI Sheep or displays MobGUI Information. <about/spawn>
